@@ -1,4 +1,4 @@
-======= EXECUÇÃO DO QASM ibm_Toffoli_0+1=2+3=4.qasm =======
+======= EXECUÇÃO DO QASM Toffoli_0+1=2+3=4.qasm =======
 
 ======= REGISTRADOR QUANTUM ======= 2019-11-28 23:22:45.613413
 QUBIT QUATRO      entagled-qubits 5     shape-probability (32, 1)
