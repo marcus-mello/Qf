@@ -21,7 +21,7 @@ And...<br>
 <br>
 I modified the original Quintuple to display qubits in different order from <i><b>physics community</b></i>, that present the vector |11000> as q0 q1 q2 q3 q4. By that way developers can misread this binary as 24 rather than 3.<br>
 <br>
-In my Quintuple forked version, the qubits are represented from the most significant bit (MSB) on the left to the least significant bit (LSB) on the right (big-endian), exactly like IBM does it.<br>
+In my Quintuple forked version, the qubits are represented from the most significant bit (MSB) on the left to the least significant bit (LSB) on the right (big-endian), <b>exactly like IBM does it.</b><br>
 <br>
 This is similar to bit string representation on classical computers, and enables easy conversion from bit strings to integers after measurements are performed.<br>
 <br>
