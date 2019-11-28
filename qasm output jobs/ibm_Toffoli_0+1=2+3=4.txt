@@ -1,0 +1,35 @@
+======= EXECUÇÃO DO QASM ibm_Toffoli_0+1=2+3=4.qasm =======
+
+======= REGISTRADOR QUANTUM ======= 2019-11-28 23:22:45.613413
+QUBIT QUATRO      entagled-qubits 5     shape-probability (32, 1)
+|psi>=|01011>
+Pr(|01011>)=1.000000; 
+-------------------------------------
+QUBIT TRÊS      entagled-qubits 5     shape-probability (32, 1)
+|psi>=|01011>
+Pr(|01011>)=1.000000; 
+-------------------------------------
+QUBIT DOIS      entagled-qubits 5     shape-probability (32, 1)
+|psi>=|01011>
+Pr(|01011>)=1.000000; 
+-------------------------------------
+QUBIT UM      entagled-qubits 5     shape-probability (32, 1)
+|psi>=|01011>
+Pr(|01011>)=1.000000; 
+-------------------------------------
+QUBIT ZERO      entagled-qubits 5     shape-probability (32, 1)
+|psi>=|01011>
+Pr(|01011>)=1.000000; 
+-------------------------------------
+======= REGISTRADOR BINARIO =======
+           4  3  2  1  0 
+           |  |  |  |  | 
+           0  1  0  1  1 
+#          |  |  |  |  |
+# entag 0  X  X  X  X  X
+# entag 1  X  X  X  _  _
+#
+======= RESULTADO DECIMAL =======
+        01011   -->   11
+=================================
+Qf> 
